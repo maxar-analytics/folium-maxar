@@ -15,7 +15,7 @@
 .. |DOI| image:: https://zenodo.org/badge/18669/python-visualization/folium.svg
    :target: https://zenodo.org/badge/latestdoi/18669/python-visualization/folium
    :alt: DOI
-   
+
 .. |binder| image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/python-visualization/folium/main?filepath=examples
 
@@ -28,14 +28,14 @@ Python Data, Leaflet.js Maps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `folium` builds on the data wrangling strengths of the Python ecosystem and the
-mapping strengths of the Leaflet.js library. Manipulate your data in Python, 
+mapping strengths of the Leaflet.js library. Manipulate your data in Python,
 then visualize it in a Leaflet map via `folium`.
 
 Installation
 ------------
 
 .. code:: bash
-
+    $ cd folium-maxar
     $ pip install folium
 
 or
