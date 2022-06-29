@@ -469,7 +469,7 @@ def get_obj_in_upper_tree(element, cls):
 
 
 def parse_options(**kwargs):
-    """Return a dict with lower-camelcase keys and non-None values.."""
-    return {camelize(key): value
+    """Return a dict with keys and no-None values.."""
+    return {key: value
             for key, value in kwargs.items()
             if value is not None}
