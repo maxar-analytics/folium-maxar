@@ -35,7 +35,6 @@ Installation
 ------------
 
 .. code:: bash
-    $ cd folium-maxar
     $ pip install folium
 
 or
